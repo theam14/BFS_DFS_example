@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/theam/development/projects/cpp/graphs/build",
+  "command": "/bin/clang++-13.0.1  -I/home/theam/development/projects/cpp/graphs/./src -Wall -O2 -Wpedantic -g -std=gnu++17 -o CMakeFiles/graph_exercises.dir/src/main.cpp.o -c /home/theam/development/projects/cpp/graphs/src/main.cpp",
+  "file": "/home/theam/development/projects/cpp/graphs/src/main.cpp"
+}
+]

@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/theam/development/projects/cpp/graphs'
+make: Leaving directory '/home/theam/development/projects/cpp/graphs'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+

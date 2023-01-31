@@ -1,0 +1,1 @@
+/bin/clang++-13.0.1 -Wall -O2 -Wpedantic -g -rdynamic CMakeFiles/graph_exercises.dir/src/main.cpp.o -o graph_exercises 
